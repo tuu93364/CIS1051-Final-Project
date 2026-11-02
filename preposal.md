@@ -21,6 +21,3 @@ Create a virtual wardrobe where users can upload and organize their clothes, gen
 1. Based on our six ideas, which project do you think has the most potential in terms of creativity, technical complexity, and feasibility for a two-person team?
 2. Are we allowed to use external Python libraries, frameworks, or APIs that we have not covered in class, such as Pygame, OpenCV, or Tkinter?
 3. Are there any limitations on using AI or machine learning as features within our project, as long as we develop and understand the code ourselves?
-4. What level of complexity do you expect from a two-person project, and how can we make sure both students contribute enough?
-5. What are the most important factors you consider when selecting projects for final exam exemptions? Is it mainly originality, programming complexity, usefulness, or the quality of the final demonstration?
-6. If we encounter technical difficulties, how much can we modify our original project idea or reduce its scope after receiving approval?
