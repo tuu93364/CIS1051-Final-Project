@@ -15,7 +15,8 @@ Include different routing algorithms and let the professor design a warehouse la
 Create a virtual wardrobe where users can upload and organize their clothes, generate outfit combinations, and receive personalized recommendations based on weather, occasion, color coordination, and style preferences. The program could also include a travel packing optimizer, outfit planner, and wardrobe analytics to help users make the most of their clothing.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
-1. Sarp Dikmen
+1. Yasmin Costa 
+2. Sarp Dikmen
 
 ## Do you have any questions of your own?
 1. Based on our six ideas, which project do you think has the most potential in terms of creativity, technical complexity, and feasibility for a two-person team?
